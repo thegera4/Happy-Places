@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.KOT_HappyPlaces" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryVariant">#388E3C</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#C8E6C9</item>
+        <item name="colorSecondaryVariant">#C8E6C9</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="CustomNoActionBarTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/primary_dark_green</item>
+    </style>
+
+    <style name="CustomToolbarStyle">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+    <!-- Custom theme for input layout edges -->
+    <style name="CustomOutlineBox" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary_dark_green</item>
+        <item name="android:textColorHint">@color/primary_light_green</item>
+        <item name="hintTextColor">@color/primary_dark_green</item>
+    </style>
+
+    <!-- Custom theme for scrollview effects -->
+    <style name="MyEdgeOverlay">
+        <item name="android:colorEdgeEffect">#C8E6C9</item>
+    </style>
+</resources>

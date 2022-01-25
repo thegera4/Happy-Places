@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KOT_HappyPlaces/app/src/main/res/drawable/ic_delete_white_24dp.xml" value="0.403125" />
+        <entry key="..\:/KOT_HappyPlaces/app/src/main/res/drawable/ic_edit_white_24dp.xml" value="0.403125" />
+        <entry key="..\:/KOT_HappyPlaces/app/src/main/res/layout/activity_add_happy_place.xml" value="0.1" />
+        <entry key="..\:/KOT_HappyPlaces/app/src/main/res/layout/activity_happy_place_detail.xml" value="0.10916919959473151" />
+        <entry key="..\:/KOT_HappyPlaces/app/src/main/res/layout/activity_main.xml" value="0.10916919959473151" />
+        <entry key="..\:/KOT_HappyPlaces/app/src/main/res/layout/activity_map.xml" value="0.10916919959473151" />
+        <entry key="..\:/KOT_HappyPlaces/app/src/main/res/layout/fragment_maps.xml" value="0.10916919959473151" />
+        <entry key="..\:/KOT_HappyPlaces/app/src/main/res/layout/item_happy_place.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
